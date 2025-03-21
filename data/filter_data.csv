@@ -1,0 +1,6 @@
+year,emission_type,emission_volume,efficiency,filter
+2020,CO2,200,85,Activated Carbon Filter
+2021,CH4,300,90,Zeolite Filter
+2022,N2O,150,80,Catalytic Converter
+2023,CO2,250,88,Biochar Filter
+2024,CH4,350,92,Algae Bio-Filter
